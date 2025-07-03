@@ -1,0 +1,14 @@
+--Question Set
+
+-- 1. Retrieve the total number of orders placed.
+-- 2. Calculate the total revenue generated from pizza sales.
+-- 3. Identify the highest-priced pizza with pizza name.
+-- 4. Identify the most common pizza size ordered.
+-- 5. List the top 5 most ordered pizza types along with their quantities.
+-- 6. Determine the distribution of orders by hour of the day.
+-- 7. Group the orders by date and calculate the average of total number of pizzas ordered per day.
+-- 8. Determine the to 3 most ordered pizza types based on revenue.
+-- 9. Analyze the cumulative revenue generated over monthly.
+-- 10. Calculate the percentage contribution of each pizza category type to total revenue.
+-- 11. Group the orders by date and calculate the average of pizzas ordered per day 
+-- 12. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
