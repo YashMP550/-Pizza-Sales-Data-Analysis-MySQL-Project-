@@ -8,7 +8,9 @@
 -- 2. 💰 Calculate the total revenue generated from pizza sales.
 
 -- select round(sum(p.price * o.quantity),2) as total_revenue from pizzas p
+
 -- inner join order_details o
+
 -- on p.pizza_id = o.pizza_id
 
 -- 3. 🍕 Identify the highest-priced pizza with pizza name.
